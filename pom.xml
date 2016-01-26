@@ -17,7 +17,7 @@
 
   <groupId>org.robovm</groupId>
   <artifactId>robovm-maven-resolver</artifactId>
-  <version>1.13.0</version>
+  <version>1.13.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <url>https://github.com/robovm/robovm-maven-resolver</url>
